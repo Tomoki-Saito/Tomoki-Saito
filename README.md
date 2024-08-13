@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Tomoki-Saito/Tomoki-Saito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomoki-Saito&theme=gruvbox)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Tomoki-Saito&theme=gruvbox)
