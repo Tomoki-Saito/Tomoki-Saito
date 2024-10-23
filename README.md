@@ -2,12 +2,14 @@
 ![](https://komarev.com/ghpvc/?username=Tomoki-Saito&color=7b59a3)
 
 1996年9月20日生 ゼノクリース合同会社 代表
+
+ゼノクリース合同会社 コーポレートサイト: [https://xenoculis.co.jp](https://xenoculis.co.jp)
 ## GitHub
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomoki-Saito&theme=tokyonight)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Tomoki-Saito&theme=tokyonight)
 ## 経歴
 慶應 理工学部 数理科学科（統計専攻）を卒業してそのままフリーランスのエンジニアとして活動を開始し、2021年3月に法人化（ゼノクリース合同会社）して今に至ります！
-[スタディングテック](https://studying.jp/tech/)の WEB 開発主任講師も務めています。
+[スタディングテック](https://studying.jp/tech/)の WEB 開発コース主任講師も務めています。
 
 ## プロジェクト歴
 一人でできる技術の幅が広めなので、クライアントの会社様に対して「技術顧問をしつつ、実装もする IT コンサル」的な動き方をするのが得意です！
