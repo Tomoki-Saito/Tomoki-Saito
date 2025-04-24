@@ -4,12 +4,15 @@
 1996年9月20日生 ゼノクリース合同会社 代表
 
 ゼノクリース合同会社 コーポレートサイト: [https://xenoculis.co.jp](https://xenoculis.co.jp)
+
 ## GitHub
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomoki-Saito&theme=tokyonight)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Tomoki-Saito&theme=tokyonight)
+
 ## 経歴
 慶應 理工学部 数理科学科（統計専攻）を卒業してそのままフリーランスのエンジニアとして活動を開始し、2021年3月に法人化（ゼノクリース合同会社）して今に至ります！
-[スタディングテック](https://studying.jp/tech/)の WEB 開発コース主任講師も務めています。
+上場企業 KIYO ラーニング株式会社の運営する e ラーニングのサービス[『スタディングテック』](https://studying.jp/tech/)の WEB 開発コース主任講師も務めています。
+また、全国の高校生のための無料プログラミング学習プラットフォーム[『ハイスクールPython』](https://high-school-python.jp)の運営もやっています。
 
 ## プロジェクト歴
 一人でできる技術の幅が広めなので、クライアントの会社様に対して「技術顧問をしつつ、実装もする IT コンサル」的な動き方をするのが得意です！
@@ -28,6 +31,9 @@
 - Looker Studio, Sisense などの BI ツールを使った経営管理ダッシュボードの設計、構築、運用管理
 - kintone アプリの設計, 開発
 - Salesforce ワークフロー改善、Apex クラスの開発
+- React/Vite, Hono, Drizzle ORM の技術スタックを Bun Monorepo で Cloudflare Pages, Workers, D1 のインフラにデプロイするようなフルスタック TypeScript でのアプリケーションの新規開発
+
+など
 
 ## スキル
 ### Web 制作
@@ -65,6 +71,7 @@
 
 ### PHP技術者認定機構
 - PHP8技術者認定初級試験
+- ウェブ・セキュリティ基礎試験（徳丸基礎試験）
 
 ### 日本ディープラーニング協会
 - G 検定
