@@ -31,7 +31,8 @@
 - Looker Studio, Sisense などの BI ツールを使った経営管理ダッシュボードの設計、構築、運用管理
 - kintone アプリの設計, 開発
 - Salesforce ワークフロー改善、Apex クラスの開発
-- React/Vite, Hono, Drizzle ORM の技術スタックを Bun Monorepo で Cloudflare Pages, Workers, D1 のインフラにデプロイするようなフルスタック TypeScript でのアプリケーションの新規開発
+- React/Vite, Hono, Drizzle ORM の技術スタックを Bun Monorepo で Cloudflare Pages, Workers, D1 にデプロイするようなフルスタック TypeScript でのアプリケーションの新規開発
+- LLM を使った社内 RAG の基盤の開発
 
 など
 
